@@ -27,5 +27,3 @@ Vráťte sa do koreňového adresára a spustite aplikáciu:
 Pre Android
 Spustite aplikáciu príkazom:
   npx react-native run-android
-
-Týmto by mala byť vaša aplikácia úspešne spustená na príslušnom zariadení. Ak narazíte na problémy, odporúčame preštudovať dokumentáciu React Native.
