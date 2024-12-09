@@ -1,4 +1,5 @@
 Hello World App
+
 Tento projekt je React Native aplikácia vytvorená pomocou príkazu:
   npx react-native@latest init FProject
 
